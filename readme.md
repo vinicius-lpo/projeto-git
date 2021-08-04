@@ -1,0 +1,1 @@
+Olá essa pasta se destina ao meu estudo de git no ubuntu
